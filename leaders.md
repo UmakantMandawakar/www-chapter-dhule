@@ -1,4 +1,4 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Umakant Mandawkar](mailto:umakant.mandawkar@owasp.org)
+* [Makarand Shahade](mailto:makarand.shahade@owasp.org)
+* [Nilesh Khandekar](mailto:nilesh.khandekar@owasp.org)
