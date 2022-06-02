@@ -10,7 +10,7 @@ meetup-group:
 
 <div style='color:red;'>
 
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+Welcome to the Dhule Chapter of OWASP. Umakant Mandawkar, Makarand Shahade, and Nilesh Khandekar,Ranjit Fule  are the chapter leaders. The Chapter's goal is to raise awareness about application security not just among Dhule residents, but also beyond. It will have meetings on a regular basis to discuss current events in the security community.
 
 <ul>
 <li>layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar</li>
